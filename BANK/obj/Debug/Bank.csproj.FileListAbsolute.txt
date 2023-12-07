@@ -1,0 +1,6 @@
+C:\Users\RUSLAN\Desktop\BANK-20231207T161733Z-001\BANK\bin\Debug\MoreMethods.exe
+C:\Users\RUSLAN\Desktop\BANK-20231207T161733Z-001\BANK\bin\Debug\MoreMethods.pdb
+C:\Users\RUSLAN\Desktop\BANK-20231207T161733Z-001\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\BANK-20231207T161733Z-001\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\BANK-20231207T161733Z-001\BANK\obj\Debug\MoreMethods.exe
+C:\Users\RUSLAN\Desktop\BANK-20231207T161733Z-001\BANK\obj\Debug\MoreMethods.pdb

@@ -1,0 +1,6 @@
+C:\Users\RUSLAN\Desktop\INTERFACETEST\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\INTERFACETEST\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\INTERFACETEST\bin\Debug\Utils.exe
+C:\Users\RUSLAN\Desktop\INTERFACETEST\bin\Debug\Utils.pdb
+C:\Users\RUSLAN\Desktop\INTERFACETEST\obj\Debug\Utils.exe
+C:\Users\RUSLAN\Desktop\INTERFACETEST\obj\Debug\Utils.pdb
